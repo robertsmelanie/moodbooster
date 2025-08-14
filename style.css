@@ -1,12 +1,12 @@
   body {
       font-family: 'Segoe UI', sans-serif;
-      background: linear-gradient(135deg, #ffe29f, #ffa99f);
+      background: linear-gradient(135deg, #ffe29f, tomato);
       display: flex;
       justify-content: center;
       align-items: center;
       height: 100vh;
       margin: 0;
-      background-color: tomato;
+      
   }
 
   .container {
