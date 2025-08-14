@@ -6,6 +6,7 @@
       align-items: center;
       height: 100vh;
       margin: 0;
+      background-color: tomato;
   }
 
   .container {
@@ -15,6 +16,7 @@
       box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
       text-align: center;
       max-width: 400px;
+      background-color: slategrey;
   }
 
   h1 {
